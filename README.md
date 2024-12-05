@@ -16,3 +16,5 @@
 ## 2. Fetching Data to Firestore
 <img src="https://github.com/user-attachments/assets/e67e516e-4838-4418-aeca-fff90ca3fa70" alt="Fetching Data to Firestore" width="300px">
 
+## 3. Cloud Firestore
+![Screenshot 2024-12-05 170213](https://github.com/user-attachments/assets/76437ad6-de31-4a49-8f98-f648ee823878)
